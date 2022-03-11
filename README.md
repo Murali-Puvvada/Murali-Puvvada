@@ -8,7 +8,7 @@ I am an enthusiastic and aspiring junior front-end developer who enjoys practisi
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [saipuvvada81299@gmail.com](mailto:saipuvvada81299@gmail.com)
-* 🚀  I'm currently working on [Building My Personal Website](https://github.com/Murali-Puvvada/)
+* 🚀  I'm currently working on [Building My Personal Website](https://muralipuvvada.com/)
 * 🧠  I'm learning Material UI
 * 🤝  I'm open to collaborating on Interesting Projects
 
