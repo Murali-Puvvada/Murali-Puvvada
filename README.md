@@ -4,7 +4,7 @@ Hi 👋 My name is Murali Puvvada
 Software Developer
 --------------------------
 
-I am an enthusiastic and aspiring software developer who enjoys practising and building projects to learn new skills. Expertise in HTML, CSS, Javascript, and React I enjoy sharing my enthusiasm for web development by posting content on social media platforms (Twitter & Medium). I'm looking for new opportunities to apply and expand my knowledge, as well as gain experience working in a team. Other skills include Git, Github, Python, and REST API.
+I am an enthusiastic software developer who enjoys practising and building projects to learn new skills. Expertise in HTML, CSS, Javascript, and React I enjoy sharing my enthusiasm for web development by posting content on social media platforms (Twitter & Medium). I'm looking for new opportunities to apply and expand my knowledge, as well as gain experience working in a team. Other skills include Git, Github, Python, and REST API.
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [saipuvvada81299@gmail.com](mailto:saipuvvada81299@gmail.com)
