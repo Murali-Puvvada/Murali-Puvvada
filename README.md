@@ -1,35 +1,55 @@
-Hi 👋 My name is Murali Puvvada
-===============================
+Hi 👋 I'm Murali Puvvada
+=============================
 
-Software Developer
---------------------------
+Frontend Software Engineer
+-----------------------------
 
-I am an enthusiastic software developer who enjoys practising and building projects to learn new skills. Expertise in HTML, CSS, Javascript, and React I enjoy sharing my enthusiasm for web development by posting content on social media platforms (Twitter & Medium). I'm looking for new opportunities to apply and expand my knowledge, as well as gain experience working in a team. Other skills include Git, Github, Python, and REST API.
+I’m a frontend-focused developer who enjoys building clean, scalable, and user-friendly web applications. I spend a lot of time experimenting with new ideas, refining UI/UX details, and turning concepts into polished products.
 
-* 🌍  I'm based in Sweden
-* ✉️  You can contact me at [saipuvvada81299@gmail.com](mailto:saipuvvada81299@gmail.com)
-* 🚀  I'm currently working on [Building My Personal Website](https://muralipuvvada.com/)
-* 🧠  I'm learning Material UI
-* 🤝  I'm open to collaborating on Interesting Projects
+I primarily work with modern TypeScript and React, and I’m especially interested in performance, reusable component systems, and building smooth user experiences.
 
-### Skills
+Currently, I’m looking for opportunities where I can contribute, learn from strong teams, and build impactful products.
 
-<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a></p>
+---
 
+* ✉️ Contact: [saipuvvada81299@gmail.com](mailto:saipuvvada81299@gmail.com)  
+* 🚀 Working on: [Dock Digits](https://github.com/Murali-Puvvada/dock-digits)  
+* 🧠 Currently learning: Tauri & advanced frontend patterns  
+* 🤝 Open to collaborating on interesting projects  
 
-### Socials
+---
 
-<p align="left">
-<a href="https://www.github.com/Murali-Puvvada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/murali-puvvada/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/@saipuvvada81299" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/saipuvvada1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+## 🚀 Featured Projects
 
-### Badges
+### 🔹 Dock Digits  
+**MacOS productivity app for keyboard-first navigation**
 
-<b>My GitHub Stats</b>
+- Built a lightweight desktop app that enables Windows-style app launching on macOS (Option + Number shortcuts)  
+- Automatically syncs with the system Dock for a zero-config experience  
+- Focused on performance, native feel, and minimal UX friction  
 
-<a href="http://www.github.com/Murali-Puvvada"><img src="https://github-readme-stats.vercel.app/api?username=Murali-Puvvada&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Murali-Puvvada's GitHub stats" /></a>
+👉 [View Project](https://github.com/Murali-Puvvada/dock-digits)
 
-<a href="https://github.com/Murali-Puvvada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Puvvada&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🎨 AI Icon Generator  
+**Full-stack AI-powered SaaS application**
+
+- Built an app where users generate icons using prompts and manage them in a personal gallery  
+- Integrated authentication, payments, and cloud storage  
+- Designed a clean UI for creating, browsing, and managing generated assets  
+
+👉 [View Project](https://github.com/Murali-Puvvada/icon-generator-dalle)
+
+---
+
+### 📺 Mini YouTube  
+**Video search and playback web app**
+
+- Built a React app to search and watch videos with an embedded player  
+- Integrated external APIs with reusable data-fetching logic  
+- Designed a responsive UI with smooth search experience  
+
+👉 [Live Demo](https://youtube-api-with-react.vercel.app/)
+
+---
